@@ -1,8 +1,7 @@
 /*
-* Clock.cpp
 * @author Noah Pohl
-* CS210 SNHU
 * @date 5-18-2020
+*
 */
 
 #include <iostream>
